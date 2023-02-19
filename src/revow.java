@@ -82,6 +82,4 @@ public class revow{
         }
         return num;
     }
-
-
 }
